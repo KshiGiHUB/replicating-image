@@ -1,0 +1,34 @@
+<html>
+<head>
+
+<title> videos </title>
+
+</head>
+
+<body style="margin: 0px; padding: 0px; font-family: 'Trebuchet MS',verdana;">
+
+<table width="100%" style="height: 100%;" cellpadding="10" cellspacing="0" border="0"><tr>
+
+
+<td width="10%" valign="top" bgcolor="White">
+<img src="4.png"/>
+<br/><br/><br/><br/><br/><br/><img src="1.png"/><br/><a href="https://www.google.com/search?q=student+&rlz=1C1CHBF_enIN968IN968&sxsrf=AOaemvKM71NVU2Ajf-Aq6nrPsIvGF1GmZQ%3A1630573727278&ei=n5QwYfbIELrnz7sPsqaroAU&oq=student+&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyCwgAEIAEELEDEIMBMggIABCxAxCDATILCAAQgAQQsQMQgwEyBQgAEIAEMggIABCxAxCDATILCAAQsQMQgwEQyQMyBQgAEIAEMgUIABCABDIICAAQsQMQgwE6BwgjELADECc6BwgAEEcQsAM6BggAEBYQHkoECEEYAFD1LFizOGDKO2gBcAJ4AIAB4wGIAc0KkgEFMC42LjKYAQCgAQHIAQnAAQE&sclient=gws-wiz&ved=0ahUKEwi2lK2--N_yAhW683MBHTLTClQQ4dUDCA8&uact=5">Student</a><br><br/><br/><br/><br/>
+<img src="3.png"/><br/><a href="https://www.google.com/search?q=student+lesson+plan&rlz=1C1CHBF_enIN968IN968&oq=student+lesso&aqs=chrome.2.69i57j0i512l9.8277j0j7&sourceid=chrome&ie=UTF-8">Lesson Plan</a><br><br/><br/><br/><br/>
+<img src="2.png"/><br/><a href="https://www.google.com/search?q=setting+student+lesson+plan&rlz=1C1CHBF_enIN968IN968&sxsrf=AOaemvKM71NVU2Ajf-Aq6nrPsIvGF1GmZQ%3A1630573727278&ei=n5QwYfbIELrnz7sPsqaroAU&oq=setting+student+lesson+plan&gs_lcp=Cgdnd3Mtd2l6EAM6BwgjELACECc6BAgAEA06CAgAEAgQBxAeOgUIABDNAkoECEEYAFDWsQFYpMABYOXCAWgAcAJ4AIAB6wGIAYcLkgEFMC42LjKYAQCgAQHAAQE&sclient=gws-wiz&ved=0ahUKEwi2lK2--N_yAhW683MBHTLTClQQ4dUDCA8&uact=5">Settings</a><br><br/><br/><br/><br/><br/>
+</td>
+
+<td width="90%" valign="top" bgcolor="#ADD8E6">
+<br/><br/><br/><br/><br/><h1>STUDY MATERIAL</h1>
+
+<br/><br/><br/><p>Click on the "Choose File" button to upload a file:</p>
+
+<br/><br/><form action="/action_page.php">
+ &nbsp &nbsp &nbsp &nbsp &nbsp  <input type="file" id="myFile" name="filename"><br/><br/><br/>
+  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  <input type="submit">
+</form>
+
+
+</td></tr></table>
+</body>
+
+<html>
